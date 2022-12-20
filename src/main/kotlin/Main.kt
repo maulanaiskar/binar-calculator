@@ -1,5 +1,1 @@
-fun main(args: Array<String>) {
-
-}
-
-fun bagi(){}
+fun bagi(a: Int, b: Int) = a / b
