@@ -1,7 +1,1 @@
-fun main(args: Array<String>) {
-
-}
-
-fun minus(){
-
-}
+fun minus(a: Int, b: Int) = a - b
