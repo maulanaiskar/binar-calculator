@@ -1,7 +1,1 @@
-fun main(args: Array<String>) {
-
-}
-
-fun multiplikasi(){
-
-}
+fun multiplikasi(a: Int, b: Int) = a * b
